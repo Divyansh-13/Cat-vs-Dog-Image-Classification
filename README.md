@@ -804,6 +804,4 @@ For issues or improvements:
 2. Check [Streamlit Documentation](https://docs.streamlit.io/)
 3. Review training/inference logs for debugging
 
----#   C a t - v s - D o g - I m a g e - C l a s s i f i c a t i o n  
- #   C a t - v s - D o g - I m a g e - C l a s s i f i c a t i o n  
- 
+---#
